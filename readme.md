@@ -38,4 +38,3 @@ Ne vous occupez pas de l'exposition, seulement de produire les classes qui répo
 
 - SIRET : 14 chiffres: les 9 premiers sont le numéro SIREN, les 5 chiffres suivants sont le code NIC
 - Raison social: le nom des sociétés civiles
-- Pour connaître le montant taxé, la formule est la suivante : (bénéfice * taxe ) / 100
